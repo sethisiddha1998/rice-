@@ -2,10 +2,10 @@
 my first rice 
 ![Screenshot](screenshot.png)
 # Cool stuff
-wm: i3
-launcher: rofi 
-compositor: compton 
-terminal: termite 
-bar: polybar 
-gtk-theme: Arc-Dark
-cursor: la-capitaine
+wm: i3 <br>
+launcher: rofi <br> 
+compositor: compton <br> 
+terminal: termite <br>
+bar: polybar <br>
+gtk-theme: Arc-Dark <br>
+cursor: la-capitaine <br>

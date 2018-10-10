@@ -9,3 +9,4 @@ terminal: termite <br>
 bar: polybar <br>
 gtk-theme: Arc-Dark <br>
 cursor: la-capitaine <br>
+shell: zsh with pure zsh theme

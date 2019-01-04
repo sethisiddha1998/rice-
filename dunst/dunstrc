@@ -1,6 +1,6 @@
 [global]
 
-font = Roboto Regular
+font = Roboto Regular 9
 # Which monitor should the notifications be displayed on (see next one)
 monitor = 0
 
@@ -17,7 +17,7 @@ monitor = 0
 # will be ignored.
 follow = keyboard
 
-corner_radius = 2000
+corner_radius = 8
 # The geometry of the window:
 #   [{width}]x{height}[+/-{x}+/-{y}]
 # The geometry of the message window.
@@ -30,7 +30,7 @@ corner_radius = 2000
 # the top and down respectively.
 # The width can be negative.  In this case the actual width is the
 # screen width minus the width defined in within the geometry option.
-geometry = "0x5-0+25"
+geometry = "0x8-15+50"
 
 # Show how many messages are currently hidden (because of geometry).
 indicate_hidden = yes
@@ -65,7 +65,7 @@ horizontal_padding = 8
 frame_width = 2
 
 # Defines color of the frame around the notification window.
-frame_color = "#24272e"
+frame_color = "#0f151e"
 
 # Define a color for the separator.
 # possible values are:
@@ -141,7 +141,7 @@ show_indicators = no
 icon_position = right
 
 # Scale larger icons down to this size, set to 0 to disable
-max_icon_size = 64
+max_icon_size = 48
 
 # Paths to default icons.
 icon_path = ~/.icons/la-capitaine-icon-theme/apps/scalable
@@ -187,23 +187,23 @@ context = ctrl+shift+period
 
 
 [urgency_low]
-background = "#24272e"
-foreground = "#abb2bf"
+background = "#0f151e"
+foreground = "#e1cbcd"
 timeout = 7
 
 
 [urgency_normal]
-background = "#24272e"
-foreground = "#abb2bf"
+background = "#0f151e"
+foreground = "#e1cbcd"
 timeout = 7
 
 
 [urgency_critical]
-background = "#24272e"
-foreground = "#abb2bf"
-frame_color = "#e06c75"
+background = "#0f151e"
+foreground = "#e1cbcd"
+frame_color = "#0f151e"
 timeout = 0
 
 # Per app rules
-[Spotify]
+[spotify]
 timeout = 3 

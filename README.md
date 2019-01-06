@@ -1,6 +1,6 @@
 # rice-
 my first rice 
-![Screenshot](screenshot.png)
+![Screenshot](Kawaii_2019_01_06_15-40-49-1366x768.png)
 # Cool stuff
 wm: i3 <br>
 launcher: rofi <br> 

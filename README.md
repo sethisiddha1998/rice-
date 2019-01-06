@@ -7,5 +7,6 @@ wm: Openbox <br>
 launcher: rofi <br> 
 compositor: compton <br> 
 terminal: termite <br>
+terminal font: Iosevka <br>
 bar: polybar <br>
 notifications: dunst

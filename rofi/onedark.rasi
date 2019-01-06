@@ -21,7 +21,7 @@
   text:       #dfdfdf;
   text-alt:   #b2b2b2;
   fg:         #abb2bf;
-  bg:         #282c34;
+  bg:         #000000;
 
   spacing: 0;
   background-color: transparent;
@@ -33,7 +33,7 @@
 window {
   transparency: "real";
   fullscreen: true;
-  background-color: #282c34dd;
+  background-color: rgba(0, 0, 0, 0.85);
 }
 
 mainbox {
